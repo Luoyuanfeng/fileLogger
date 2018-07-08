@@ -1,8 +1,4 @@
-// Package: fileLogger
-// File: setter.go
-// Created by: mint(mint.zhao.chiu@gmail.com)_aiwuTech
-// Useage: fileLogger settings
-// DATE: 14-8-24 11:14
+
 package fileLogger
 
 // Change the sizeSplit fileLogger's bak file count

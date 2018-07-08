@@ -1,8 +1,3 @@
-/**
- * Project grampus-logger-go
- * Package fileLogger
- * Created by luoyf on 2018/5/8 16:42
- */
 
 package fileLogger
 

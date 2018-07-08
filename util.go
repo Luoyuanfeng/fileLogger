@@ -1,8 +1,4 @@
-// Package: fileLogger
-// File: util.go
-// Created by: mint(mint.zhao.chiu@gmail.com)_aiwuTech
-// Useage: some useful utils
-// DATE: 14-8-23 17:03
+
 package fileLogger
 
 import (
